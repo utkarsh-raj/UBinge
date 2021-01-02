@@ -1,0 +1,11 @@
+{
+  "name": "ubinge-backend",
+  "version": "1.0.0",
+  "description": "Backend service for UBinge",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Utkarsh Raj Singh",
+  "license": "ISC"
+}
